@@ -1,0 +1,6 @@
+Unigram Model Likelihood:
+-44.2364299857
+Bigram Model Likelihood:
+('FOURTEEN', 'OFFICIALS')
+('SOLD', 'FIRE')
+-71.4478840811

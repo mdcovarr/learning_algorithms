@@ -1,0 +1,4 @@
+Unigram Model Likelihood:
+-57.1986944096
+Bigram Model Likelihood:
+-38.0971688064
